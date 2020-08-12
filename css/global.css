@@ -1,0 +1,89 @@
+
+/* ----- ======= Global CSS ======= ------ */
+section{
+	padding-top:100px;
+	padding-bottom:75px;
+}
+.btn{
+	box-shadow:none!important;
+}
+.lead-sm{
+	font-size: 1.1rem!important;
+	font-weight:300;
+}
+.bg-transparent-white{
+	background-color: #ffffff42;
+}
+.bg-transparent-black{
+	background-color: #00000045;
+}
+.top-auto{
+	top:auto;
+}
+.bottom-auto{
+	bottom:auto;
+}
+.left-auto{
+	left:auto;
+}
+.right-auto{
+	right:auto;
+}
+.top-0{
+	top:0;
+}
+.bottom-0{
+	bottom:0;
+}
+.left-0{
+	left:0;
+}
+.right-0{
+	right:0;
+}
+.w-375{
+	width:375px;
+}
+.img-flip{
+	transform:scaleX(-1);
+}
+.bg-blue-white{
+	background-color:#4ca3ff;
+}
+.text-blue-white{
+	color:#4ca3ff;
+}
+.light-gray{
+	background-color:#f9f9f9;
+}
+.hr{
+border-top:2px solid;
+color:#4ca3ff;
+}
+.border-radious{
+	border-radius:0;
+}
+.list-group.list-group-border-none .list-group-item{
+	border-color:transparent;
+}
+.ops{
+	opacity:30%;
+}
+.ops:hover{
+	opacity:100%;
+}
+/* ----- ======= Global Media CSS ======= ------ */
+
+
+@media (max-width:1100px) {
+	
+}
+
+@media (max-width:576px) {
+	
+}
+
+
+
+
+
